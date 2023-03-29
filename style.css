@@ -6,6 +6,8 @@
     background-color: #21B573;
     border-radius: 33px;
     padding: 12px 28px;
+    color: white;
+    text-decoration: none;
 }
 .background{
     background-image: url("Photos/Rectangle 21.png");
@@ -22,3 +24,61 @@
 .navbar-nav{
     gap: 20px;
 }
+.text-learn{
+    margin-top: 100px;
+    color: #FD511A;
+}
+.fun{
+    font-weight: 800;
+}
+#schedule{
+    color:#21B573
+}
+.illustration{
+    width: 554px;
+}
+.margin{
+    margin-top: 60px;
+}
+.items img{
+    width: 60px;
+    margin-top: 40px;
+}
+.row-mg{
+    margin-right: 80px;
+}
+.smol{
+    font-size: 15px;
+}
+.column-border{
+    margin: 20px;
+    background-color: #F8FFFB;
+    padding: 50px 50px;
+    border-radius: 10px;
+}
+.shadow{
+    padding: 50px 50px;
+    border-radius: 10px;
+}
+#course-margin{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.icon{
+    width: 60px;
+    margin-top: 30px;
+}
+.text p{
+    margin-left: 35px;
+}
+.padding-img{
+    padding: 10px;
+}
+.card-footer img{
+    width: 5%;
+    height: 5%;
+}
+
